@@ -1,3 +1,18 @@
+### A quick note on how I built this
+
+My background is in Solutions Engineering and Product, which means I spend a lot of time prototyping, debugging integrations, and helping customers get things working.
+
+For this demo, I approached it the same way I would in a real SE role:
+
+- I got hands-on with the Stream SDKs  
+- I built a working concept quickly  
+- I used AI to speed up the boilerplate/UI stuff  
+- And I focused on understanding how the pieces fit together  
+  (Video client → Call → Chat client → Channel → Tokens → UI)
+
+It’s a “vibe coded” demo, not a production app — the goal was just to show how I think, how I learn a new product, and how I’d prototype something for a customer in an actual presales situation.
+
+
 # Stream Listening Party Demo
 
 Small demo I built while interviewing for a Solutions Engineer role at Stream.
